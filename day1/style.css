@@ -1,0 +1,27 @@
+body{
+    background-color : hsl(212, 45%, 89%);
+    font-family : 'outfit' , sans-serif;
+}
+.big{
+    text-align: center;
+    margin-top: 140px;
+    margin-left: 600px;
+    height: 450px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: white;
+    font-size : 15px;
+}
+.qr{
+    margin-top : 24px;
+    border-radius: 15px;
+}
+h3{
+    color : hsl(218, 44%, 22%);
+    font-size: larger;
+    font-weight: 800;
+}
+h4{
+    color : hsl(216, 3%, 37%);
+    font-weight: lighter;
+}
